@@ -37,6 +37,3 @@ The repository includes the following important research papers:
 
 *This implementation serves as an educational exploration of the transformer architecture that revolutionized natural language processing and became the foundation for modern AI systems.*
 
-### License
-
-MIT
